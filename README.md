@@ -1,2 +1,2 @@
 # SMICC
-Unsupervised cervical cell instance segmentation method
+Unsupervised cell segmentation method
